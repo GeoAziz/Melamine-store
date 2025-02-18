@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/melamine-store/static/css/main.e6c13ad2.css",
-    "main.js": "/melamine-store/static/js/main.04a667fe.js",
+    "main.js": "/melamine-store/static/js/main.52b9bd00.js",
     "static/js/453.92841413.chunk.js": "/melamine-store/static/js/453.92841413.chunk.js",
     "static/media/dinningset1.jpg": "/melamine-store/static/media/dinningset1.393406c224687558b0f2.jpg",
     "static/media/dinningset.jpg": "/melamine-store/static/media/dinningset.4e6f238fc591c3b7bde9.jpg",
@@ -20,11 +20,11 @@
     "static/media/storagebox.png": "/melamine-store/static/media/storagebox.39825ef709cffaf54c23.png",
     "index.html": "/melamine-store/index.html",
     "main.e6c13ad2.css.map": "/melamine-store/static/css/main.e6c13ad2.css.map",
-    "main.04a667fe.js.map": "/melamine-store/static/js/main.04a667fe.js.map",
+    "main.52b9bd00.js.map": "/melamine-store/static/js/main.52b9bd00.js.map",
     "453.92841413.chunk.js.map": "/melamine-store/static/js/453.92841413.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.04a667fe.js"
+    "static/js/main.52b9bd00.js"
   ]
 }
